@@ -40,5 +40,5 @@ Here are some ideas to get you started:
   </a>
 </p>&nbsp;
 
-<a href="https://marketingsolver.netlify.app/">https://github.com/ganeshjadhav31/ganeshjadhav31/assets/167076681/ddce28f7-cec2-4f88-9df3-3a7f633d53e9
+<a href="https://marketingsolver.netlify.app/">https://github.com/ganeshjadhav31/ganeshjadhav31/issues/1#issue-2252379362
 </a>
