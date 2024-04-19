@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 I’m currently working on **Web Development, DSA Learn&Programming**
 
-- 🌱 I’m currently learning **Java, C++, WebDev**
+- 🌱 I’m currently learning **Java, C++, MERN**
 
 - 👯 I’m looking to collaborate on projects related to full stack
 
-- 📫 How to reach me ****
+- 📫 How to reach me **ganeshsj2410@gmail.com**
 
 <h3 align="left">📱Connect with me:</h3>
 <p align="left">
