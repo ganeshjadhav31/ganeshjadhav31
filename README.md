@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   </a>
 </p>&nbsp;
 
-<a href="https://marketingsolver.netlify.app/">MS.in</a>
+<a href="https://marketingsolver.netlify.app/"><link rel="icon" href="img/Digital Marketing Agency Favicon.png"></a>
