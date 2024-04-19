@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   </a>
 </p>&nbsp;
 
-<a href="https://marketingsolver.netlify.app/">![Digital Marketing Agency Favicon](https://github.com/ganeshjadhav31/ganeshjadhav31/assets/167076681/698ce3f7-79ab-41af-bd80-70d15e5d0478)</a>
+<a href="https://marketingsolver.netlify.app/" target="_blank" height="50" width="50">![Digital Marketing Agency Favicon](https://github.com/ganeshjadhav31/ganeshjadhav31/assets/167076681/698ce3f7-79ab-41af-bd80-70d15e5d0478)</a>
