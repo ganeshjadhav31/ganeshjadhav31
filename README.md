@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img align="left" style="margin: 10px" src="https://github.com/ganeshjadhav31/ganeshjadhav31/assets/167076681/698ce3f7-79ab-41af-bd80-70d15e5d0478" height="50" width="50" target="_blank"/>
 </a>&nbsp;
 <a href="https://www.avsarevents.in" target="_blank">
-<img align="left" style="margin: 10px" src="https://github.com/ganeshjadhav31/ganeshjadhav31/assets/167076681/698ce3f7-79ab-41af-bd80-70d15e5d0478" height="50" width="50" target="_blank"/>
+<img align="left" style="margin: 10px" src="https://github.com/ganeshjadhav31/ganeshjadhav31/assets/167076681/f58b560b-8202-4980-a9d5-0eaa7c843bb7" height="50" width="50" target="_blank"/>
 </a>&nbsp;
 </p>&nbsp;
 
